@@ -62,8 +62,8 @@ and communicating insights clearly.
 <td width="100%" align="left" valign="top">
 
 <img
-  src="assets/profile-photo.gif"
-  width="100"
+  src="assets/profile-photo.png"
+  width="500"
   alt="Florence Elaine Soleño"
 />
 

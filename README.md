@@ -105,7 +105,7 @@ and communicating insights clearly.
 </h2>
 
 <p align="left">
-A selection of academic and applied projects in machine learning,
+A showcase of academic and applied projects in machine learning,
 data analytics, optimization, and interactive decision-support systems.
 </p>
 

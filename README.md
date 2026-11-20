@@ -698,6 +698,6 @@ to identify student performance patterns and explore factors contributing to dro
 </p>
 
 <p align="center">
-  <sub>Made with curiosity, creativity, and a little bit of code.</sub>
+  <sub>Made with curiosity, creativity, a little bit of code, and a whole lot of fun! </sub>
 </p>
 

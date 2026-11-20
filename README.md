@@ -30,7 +30,7 @@
 
 ## <span style="color:#7DF9FF;">🩵 Data-Driven Beginnings</span>
 
-Hi! I’m <b><span style="color:#00E5FF;">Florence Elaine Soleño</span></b>, a third-year **Bachelor of Science in Information Systems** student majoring in <span style="color:#8BE9FD;"><b>Business Analytics</b></span>. I enjoy combining technology, creativity, and problem-solving to create practical and meaningful solutions.
+Hi! I’m <b><span style="color:#00E5FF;">Florence Elaine Soleño</span></b>, a fourth-year **Bachelor of Science in Information Systems** student majoring in <span style="color:#8BE9FD;"><b>Business Analytics</b></span>. I enjoy combining technology, creativity, and problem-solving to create practical and meaningful solutions.
 
 As a student, I continuously explore how **data, systems, and digital tools** can help people make better decisions and improve the way organizations operate.
 

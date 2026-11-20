@@ -3,10 +3,7 @@
 <img width="150%" src="./assets/analytics_terminal.png" alt="Florence Elaine G. Soleño — Analytics Command Center" />
 
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-GitHub-00D9E8?style=for-the-badge&logo=github&logoColor=white&labelColor=101B2B)](https://github.com/florenceelainesoleno)
-[![Streamlit](https://img.shields.io/badge/STREAMLIT-Applications-00D9E8?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101B2B)](https://share.streamlit.io/user/florenceelainesoleno)
-[![Email](https://img.shields.io/badge/CONTACT-Email-00D9E8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101B2B)](mailto:florencesolenositaca@gmail.com)
+<br>
 
 <div align="center">
   <img
@@ -14,6 +11,14 @@
     alt="Business Analytics · Machine Learning · Decision Intelligence"
   />
 </div>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-GitHub-00D9E8?style=for-the-badge&logo=github&logoColor=white&labelColor=101B2B)](https://github.com/florencesolenositaca)
+[![Streamlit](https://img.shields.io/badge/STREAMLIT-Applications-00D9E8?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101B2B)](https://share.streamlit.io/user/florenceelainesoleno)
+[![Email](https://img.shields.io/badge/CONTACT-Email-00D9E8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101B2B)](mailto:florencesolenositaca@gmail.com)
+
+
 
 </div>
 
@@ -31,7 +36,9 @@
 <!-- LEFT: INTRODUCTION -->
 <td width="65%" valign="top">
 
-<h3>Hi, I'm Florence 👋</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=20&amp;duration=1&amp;pause=100000&amp;color=38B6FF&amp;width=650&amp;height=50&amp;repeat=false&amp;lines=Hi%2C+I%27m+Florence!" alt="Hi, I'm Florence" />
+</h3>
 
 <p>
 I'm a fourth-year <b>BS Information Systems student

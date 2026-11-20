@@ -331,6 +331,8 @@ to identify student performance patterns and explore factors contributing to dro
   &nbsp;
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="Jupyter Notebook" title="Jupyter Notebook"/>
   &nbsp;
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="35" alt="Anaconda"/>
+  &nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="MySQL" title="MySQL"/>
   &nbsp;
   <img src="https://skillicons.dev/icons?i=r" height="35" alt="R" title="R"/>
@@ -359,6 +361,7 @@ to identify student performance patterns and explore factors contributing to dro
   <img src="./assets/weka.png" height="35" alt="Weka"/>
   &nbsp;
   <img src="./assets/jasp.svg" height="35" alt="jasp"/>
+  
 </td>
 </tr>
 

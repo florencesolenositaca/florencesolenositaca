@@ -59,11 +59,11 @@ and communicating insights clearly.
 </td>
 
 <!-- RIGHT: PHOTO AND ANALYST STATUS -->
-<td width="35%" align="left" valign="top">
+<td width="100%" align="left" valign="top">
 
 <img
-  src="assets/profile-photo.png"
-  width="170"
+  src="assets/profile-photo.gif"
+  width="500"
   alt="Florence Elaine Soleño"
 />
 
@@ -87,7 +87,10 @@ and communicating insights clearly.
 
 </td></tr></table>
 
-## `02 // SELECTED ANALYTICS PROJECTS`
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=02+%2F%2F+FEATURED+PROJECTS" alt="02 // FEATURED PROJECTS "/>
+</h2>
+
 
 > A selection of academic and applied projects. Repository links can be added as they are published.
 
@@ -150,7 +153,9 @@ Interactive dashboard exploring academic, demographic, and socioeconomic factors
 </tr>
 </table>
 
-## `03 // ANALYTICS TOOLKIT`
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=03+%2F%2F+ANALYTICS+TOOLKIT" alt="03 // ANALYTICS TOOLKIT "/>
+</h2>
 
 | Domain | Tools & methods |
 |:--|:--|
@@ -171,7 +176,9 @@ Interactive dashboard exploring academic, demographic, and socioeconomic factors
 
 </div>
 
-## `04 // BEYOND THE DATA`
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=04+%2F%2F+B-SIDES" alt="04 // B-SIDES "/>
+</h2>
 
 | Experience | Contribution |
 |:--|:--|
@@ -181,7 +188,9 @@ Interactive dashboard exploring academic, demographic, and socioeconomic factors
 | **SK Secretary — Barangay Girado-Magsaysay** | Supported youth initiatives, records management, and digital outreach. |
 | **AI Fest PH 2026 — SineAI** | Regional finalist; contributed as a prompt engineer. |
 
-## `05 // GITHUB ACTIVITY`
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=05+%2F%2F+GITHUB+ACTIVITY" alt="05 // GITHUB ACTIVITY "/>
+</h2>
 
 <div align="center">
 
@@ -192,7 +201,9 @@ Interactive dashboard exploring academic, demographic, and socioeconomic factors
 
 </div>
 
-## `06 // LET'S CONNECT`
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=06+%2F%2F+LET'S+TALK" alt="06 // LET'S TALK "/>
+</h2>
 
 I'm interested in opportunities to **analyze data, build useful systems, and solve real business problems**. Feel free to explore my projects or get in touch.
 

@@ -63,7 +63,7 @@ and communicating insights clearly.
 
 <img
   src="assets/profile-photo.gif"
-  width="500"
+  width="100"
   alt="Florence Elaine Soleño"
 />
 

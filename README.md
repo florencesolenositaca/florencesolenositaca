@@ -420,12 +420,98 @@ to identify student performance patterns and explore factors contributing to dro
 
 </table>
 
+<hr>
+
+<!-- ============================================== -->
+<!-- 04 // CORE SKILL SET -->
+<!-- ============================================== -->
+
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=650&height=45&repeat=false&lines=04+%2F%2F+CORE+SKILLSET" alt="04 // CORE SKILLSET"/>
+</h2>
+
+<table width="100%">
+<tr>
+  <td width="33%" height="110" align="center" valign="middle">
+    <img src="https://placehold.co/250x1/0D1117/0D1117.png" width="250" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2338B6FF" width="32" height="32" alt="Data Analysis" />
+    <br>
+    <b>Data Analysis</b>
+  </td>
+
+  <td width="33%" height="110" align="center" valign="middle">
+    <img src="https://placehold.co/250x1/0D1117/0D1117.png" width="250" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%2338B6FF" width="32" height="32" alt="Machine Learning" />
+    <br>
+    <b>Machine Learning</b>
+  </td>
+
+  <td width="34%" height="110" align="center" valign="middle">
+    <img src="https://placehold.co/250x1/0D1117/0D1117.png" width="250" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/chart-column-increasing.svg?color=%2338B6FF" width="32" height="32" alt="Data Visualization" />
+    <br>
+    <b>Data Visualization</b>
+  </td>
+</tr>
+
+<tr>
+  <td height="110" align="center" valign="middle">
+    <img src="https://api.iconify.design/lucide/brush-cleaning.svg?color=%2338B6FF" width="32" height="32" alt="Data Cleaning" />
+    <br>
+    <b>Data Cleaning</b>
+  </td>
+
+  <td height="110" align="center" valign="middle">
+    <img src="https://api.iconify.design/lucide/database.svg?color=%2338B6FF" width="32" height="32" alt="Data Modeling" />
+    <br>
+    <b>Data Modeling</b>
+  </td>
+
+  <td height="110" align="center" valign="middle">
+    <img src="https://api.iconify.design/lucide/sigma.svg?color=%2338B6FF" width="32" height="32" alt="Statistical Analysis" />
+    <br>
+    <b>Statistical Analysis</b>
+  </td>
+</tr>
+
+<!-- ROW 3: PROFESSIONAL SKILLS -->
+<tr>
+  <td height="110" align="center" valign="middle">
+    <img src="https://placehold.co/340x1/0D1117/0D1117.png" width="340" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%2338B6FF" width="32" height="32" alt="Analytical Thinking Icon" />
+    <br>
+    <b>Analytical Thinking</b>
+  </td>
+
+  <td height="110" align="center" valign="middle">
+    <img src="https://placehold.co/340x1/0D1117/0D1117.png" width="340" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/puzzle.svg?color=%2338B6FF" width="32" height="32" alt="Problem-Solving Icon" />
+    <br>
+    <b>Problem-Solving</b>
+  </td>
+
+  <td height="110" align="center" valign="middle">
+    <img src="https://placehold.co/340x1/0D1117/0D1117.png" width="340" height="1" alt="" />
+    <br>
+    <img src="https://api.iconify.design/lucide/users.svg?color=%2338B6FF" width="32" height="32" alt="Team Collaboration Icon" />
+    <br>
+    <b>Team Collaboration</b>
+  </td>
+</tr>
+</table>
+
+
 <!-- EXPERIENCE DISTRIBUTION -->
 
 <hr>
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=04+%2F%2F+B-SIDES" alt="04 // B-SIDES "/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=05+%2F%2F+B-SIDES" alt="05 // B-SIDES "/>
 </h2>
 
 <table width="100%" align="center">
@@ -495,8 +581,8 @@ to identify student performance patterns and explore factors contributing to dro
 
 <h2 align="left">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=650&height=45&repeat=false&lines=05+%2F%2F+GITHUB+ACTIVITY"
-    alt="05 // GITHUB ACTIVITY"
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=650&height=45&repeat=false&lines=06+%2F%2F+GITHUB+ACTIVITY"
+    alt="06 // GITHUB ACTIVITY"
   />
 </h2>
 
@@ -611,11 +697,11 @@ to identify student performance patterns and explore factors contributing to dro
 
 
 <!-- ============================================== -->
-<!-- 06 // LET'S TALK -->
+<!-- 07 // LET'S TALK -->
 <!-- ============================================== -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=17&amp;duration=1&amp;pause=100000&amp;color=00E5FF&amp;width=550&amp;height=45&amp;repeat=false&amp;lines=06+%2F%2F+LET%27S+TALK" alt="06 // LET'S TALK" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=17&amp;duration=1&amp;pause=100000&amp;color=00E5FF&amp;width=550&amp;height=45&amp;repeat=false&amp;lines=07+%2F%2F+LET%27S+TALK" alt="07 // LET'S TALK" />
 </h2>
 
 <!-- ============================================== -->

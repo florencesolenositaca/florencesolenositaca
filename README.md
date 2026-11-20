@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/analytic_terminal.png" alt="Florence Elaine G. Soleño — Analytics Command Center" />
+<img width="100%" src="./assets/analytics_terminal.png" alt="Florence Elaine G. Soleño — Analytics Command Center" />
 
 <br/>
 

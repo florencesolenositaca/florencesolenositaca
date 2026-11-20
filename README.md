@@ -16,27 +16,69 @@
 
 ---
 
-## `01 // ANALYST PROFILE`
 
-<table><tr><td width="65%" valign="top">
+<h2>01 // ANALYST PROFILE</h2>
 
-### Hi, I'm Florence 👋
+<table width="100%">
+<tr>
 
-I'm a fourth-year **BS Information Systems student majoring in Business Analytics** at **West Visayas State University**, and an **aspiring Data Scientist**.
+<!-- LEFT: INTRODUCTION -->
+<td width="65%" valign="top">
 
-I work at the intersection of **data, technology, and business problems**—from preparing and visualizing data to building predictive models and decision-support systems. I'm especially interested in projects that turn analytical findings into practical recommendations.
+<h3>Hi, I'm Florence 👋</h3>
 
-**Currently focused on:** machine learning, business intelligence, optimization, and communicating insights clearly.
+<p>
+I'm a fourth-year <b>BS Information Systems student
+majoring in Business Analytics</b> at
+<b>West Visayas State University</b>,
+and an <b>aspiring Data Scientist</b>.
+</p>
 
-</td><td width="35%" valign="top">
+<p>
+I work at the intersection of <b>data, technology,
+and business problems</b>—from preparing and
+visualizing data to building predictive models
+and decision-support systems. I'm especially
+interested in projects that turn analytical
+findings into practical recommendations.
+</p>
 
-```text
-> ANALYST.STATUS
-  ROLE    Business Analytics
-  FOCUS   Predictive Modeling
-  METHOD  Analyze → Model → Act
-  MODE    Learning + Building
-```
+<p>
+Currently focused on <b>machine learning,
+business intelligence, optimization,</b>
+and communicating insights clearly.
+</p>
+
+</td>
+
+<!-- RIGHT: PHOTO AND ANALYST STATUS -->
+<td width="35%" align="center" valign="top">
+
+<img
+  src="assets/profile-photo.png"
+  width="170"
+  alt="Florence Elaine Soleño"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ANALYST-STATUS-168FFF?style=flat-square&labelColor=0D1117"/>
+
+<br><br>
+
+<code>ROLE: Business Analytics</code>
+<br>
+<code>FOCUS: Predictive Modeling</code>
+<br>
+<code>METHOD: Analyze / Model / Act</code>
+<br>
+<code>MODE: Learning + Building</code>
+
+</td>
+
+</tr>
+</table>
+
 
 </td></tr></table>
 

@@ -8,7 +8,6 @@
 [![Streamlit](https://img.shields.io/badge/STREAMLIT-Applications-00D9E8?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101B2B)](https://share.streamlit.io/user/florenceelainesoleno)
 [![Email](https://img.shields.io/badge/CONTACT-Email-00D9E8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101B2B)](mailto:florencesolenositaca@gmail.com)
 
-
 <div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=45&repeat=false&lines=BUSINESS+ANALYTICS+%C2%B7+MACHINE+LEARNING+%C2%B7+DECISION+INTELLIGENCE"
@@ -318,7 +317,7 @@ to identify student performance patterns and explore factors contributing to dro
 <!-- PROGRAMMING & NOTEBOOKS -->
 <tr>
 <td width="35%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=38B6FF&width=310&height=30&repeat=false&lines=Programming+%26+Notebooks" alt="Programming &amp; Notebooks"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=310&height=30&repeat=false&lines=Programming+%26+Notebooks" alt="Programming &amp; Notebooks"/>
 </td>
 <td width="65%">
   <img src="https://skillicons.dev/icons?i=python" height="35" alt="Python" title="Python"/>
@@ -359,7 +358,8 @@ to identify student performance patterns and explore factors contributing to dro
 <!-- BUSINESS INTELLIGENCE & VISUALIZATION -->
 <tr>
 <td>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=168FFF&width=310&height=30&repeat=false&lines=Business+Intelligence+%26+Viz" alt="Business Intelligence &amp; Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=310&height=30&repeat=false&lines=Business+Intelligence+%26+Viz" alt="Business Intelligence &amp; Visualization"/>
+  
 </td>
 <td>
   <img src="https://cdn.simpleicons.org/plotly/38B6FF" height="35" alt="Plotly" title="Plotly"/>
@@ -381,7 +381,7 @@ to identify student performance patterns and explore factors contributing to dro
 <!-- DEVELOPMENT & DATABASES -->
 <tr>
 <td>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=38B6FF&width=310&height=30&repeat=false&lines=Development+%26+Databases" alt="Development &amp; Databases"/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=310&height=30&repeat=false&lines=Development+%26+Databases" alt="Development &amp; Databases"/>
 </td>
 <td>
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="VS Code" title="VS Code"/>
@@ -399,7 +399,8 @@ to identify student performance patterns and explore factors contributing to dro
 <!-- PRODUCTIVITY & DESIGN -->
 <tr>
 <td>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00E5FF&width=310&height=30&repeat=false&lines=Productivity+%26+Design" alt="Productivity &amp; Design"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=310&height=30&repeat=false&lines=Productivity+%26+Design" alt="Productivity &amp; Design"/>
+  
 </td>
 <td>
   <img src="https://cdn.simpleicons.org/google/4285F4" height="35" alt="Google Workspace" title="Google Workspace"/>
@@ -412,6 +413,7 @@ to identify student performance patterns and explore factors contributing to dro
 
 </table>
 
+<!-- EXPERIENCE DISTRIBUTION -->
 
 <hr>
 
@@ -419,13 +421,65 @@ to identify student performance patterns and explore factors contributing to dro
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=04+%2F%2F+B-SIDES" alt="04 // B-SIDES "/>
 </h2>
 
-| Experience | Contribution |
-|:--|:--|
-| **Co-Founder & Chief Marketing Officer — Foreal Solutions** | Working on **AgriChain**, a digital concept for agricultural supply-chain management. |
-| **DAP NextGen PH Startup 2025** | **2nd Runner-Up**, with contributions in concept development, pitching, and data analysis. |
-| **Chief Technology Officer — AxIS Organization** | Led technical planning and supported media literacy initiatives. |
-| **SK Secretary — Barangay Girado-Magsaysay** | Supported youth initiatives, records management, and digital outreach. |
-| **AI Fest PH 2026 — SineAI** | Regional finalist; contributed as a prompt engineer. |
+<table width="100%" align="center">
+
+<tr>
+<th width="48%" align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=200&height=30&repeat=false&lines=Experience" alt="Experience"/>
+</th>
+<th width="52%" align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=14&duration=1&pause=100000&color=00BFFF&width=200&height=30&repeat=false&lines=Contribution" alt="Contribution"/>
+</th>
+</tr>
+
+<tr>
+<td>
+  <b>Co-Founder &amp; Chief Marketing Officer — Foreal Solutions</b>
+</td>
+<td>
+  Working on <b>AgriChain</b>, a digital concept for agricultural supply-chain management.
+</td>
+</tr>
+
+<tr>
+<td>
+  <b>DAP NextGen PH Startup 2025</b>
+</td>
+<td>
+  <b>2nd Runner-Up</b>, with contributions in concept development, pitching, and data analysis.
+</td>
+</tr>
+
+<tr>
+<td>
+  <b>Chief Technology Officer — AxIS Organization</b>
+</td>
+<td>
+  Led technical planning and supported media literacy initiatives.
+</td>
+</tr>
+
+<tr>
+<td>
+  <b>SK Secretary — Barangay Girado-Magsaysay</b>
+</td>
+<td>
+  Supported youth initiatives, records management, and digital outreach.
+</td>
+</tr>
+
+<tr>
+<td>
+  <b>AI Fest PH 2026 — SineAI</b>
+</td>
+<td>
+  Regional finalist; contributed as a prompt engineer.
+</td>
+</tr>
+
+</table>
+
+<hr>
 
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=05+%2F%2F+GITHUB+ACTIVITY" alt="05 // GITHUB ACTIVITY "/>
@@ -439,6 +493,8 @@ to identify student performance patterns and explore factors contributing to dro
 <sub>GitHub activity cards are generated by third-party services and may occasionally be unavailable.</sub>
 
 </div>
+
+<hr>
 
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=06+%2F%2F+LET'S+TALK" alt="06 // LET'S TALK "/>

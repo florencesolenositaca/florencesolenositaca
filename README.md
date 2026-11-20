@@ -267,7 +267,7 @@ capacity constraints.
 
 <p>
 <img src="https://img.shields.io/badge/OPTIMIZATION-0077FF?style=flat-square&labelColor=07152E"/>
-<img src="https://img.shields.io/badge/OPERATIONS_RESEARCH-168FFF?style=flat-square&labelColor=07152E"/>
+<img src="https://img.shields.io/badge/RESEARCH-168FFF?style=flat-square&labelColor=07152E"/>
 <a href="https://github.com/florencesolenositaca/Linear-Programming">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0077FF?style=flat-square&logo=github&logoColor=white"/>
 </a>

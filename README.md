@@ -610,8 +610,6 @@ to identify student performance patterns and explore factors contributing to dro
 <hr>
 
 
-
-
 <!-- ============================================== -->
 <!-- 06 // LET'S TALK -->
 <!-- ============================================== -->
@@ -620,24 +618,29 @@ to identify student performance patterns and explore factors contributing to dro
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=17&amp;duration=1&amp;pause=100000&amp;color=00E5FF&amp;width=550&amp;height=45&amp;repeat=false&amp;lines=06+%2F%2F+LET%27S+TALK" alt="06 // LET'S TALK" />
 </h2>
 
-
+<!-- ============================================== -->
 <!-- LET'S CONNECT -->
+<!-- ============================================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=17&amp;duration=1&amp;pause=100000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=45&amp;repeat=false&amp;lines=LET%27S+CONNECT%21" alt="LET'S CONNECT!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&amp;size=14&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=65&amp;duration=1&amp;pause=100000&amp;repeat=false&amp;lines=I'm+always+open+to+new+opportunities%2C+collaborations%2C+and+meaningful+projects.;Interested+in+working+together%3F+I'd+love+to+hear+from+you%21" alt="Let's connect message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&amp;size=14&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=65&amp;duration=1&amp;pause=100000&amp;repeat=false&amp;lines=Interested+in+working+together%3F+I%27d+love+to+hear+from+you%21" alt="Interested in working together? I'd love to hear from you!" />
 </p>
 
-
 <!-- ============================================== -->
-<!-- FULL-WIDTH CONTACT WINDOWS - ONE ROW -->
+<!-- FULL-WIDTH CONTACT WINDOWS -->
 <!-- ============================================== -->
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
+
+<!-- GMAIL -->
 <td width="25%" align="center" valign="top">
+  <img src="https://placehold.co/220x1/0D1117/0D1117.png" width="225" height="1" alt="" />
+  <br>
   <a href="mailto:florencesolenositaca@gmail.com">
     <img src="./assets/gmail.png" width="100" height="100" alt="Email" />
   </a>
@@ -649,7 +652,10 @@ to identify student performance patterns and explore factors contributing to dro
   <p align="center"><b>Send me an email</b></p>
 </td>
 
+<!-- LINKEDIN -->
 <td width="25%" align="center" valign="top">
+  <img src="https://placehold.co/220x1/0D1117/0D1117.png" width="225" height="1" alt="" />
+  <br>
   <a href="https://www.linkedin.com/in/florence-soleno/">
     <img src="./assets/linkedin.png" width="100" height="100" alt="LinkedIn" />
   </a>
@@ -661,7 +667,10 @@ to identify student performance patterns and explore factors contributing to dro
   <p align="center"><b>Connect professionally</b></p>
 </td>
 
+<!-- FACEBOOK -->
 <td width="25%" align="center" valign="top">
+  <img src="https://placehold.co/220x1/0D1117/0D1117.png" width="225" height="1" alt="" />
+  <br>
   <a href="https://www.facebook.com/flrnc.7/">
     <img src="./assets/facebook.png" width="100" height="100" alt="Facebook" />
   </a>
@@ -673,7 +682,10 @@ to identify student performance patterns and explore factors contributing to dro
   <p align="center"><b>Find me on Facebook</b></p>
 </td>
 
+<!-- STREAMLIT -->
 <td width="25%" align="center" valign="top">
+  <img src="https://placehold.co/220x1/0D1117/0D1117.png" width="225" height="1" alt="" />
+  <br>
   <a href="https://share.streamlit.io/user/florenceelainesoleno">
     <img src="./assets/streamlit.png" width="100" height="100" alt="Streamlit" />
   </a>
@@ -684,8 +696,10 @@ to identify student performance patterns and explore factors contributing to dro
   </p>
   <p align="center"><b>Explore my applications</b></p>
 </td>
+
 </tr>
 </table>
+
 
 <!-- ============================================== -->
 <!-- PIXELATED ELECTRIC BLUE CLOSING REMARK -->

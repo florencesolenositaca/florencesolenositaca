@@ -8,18 +8,25 @@
 [![Streamlit](https://img.shields.io/badge/STREAMLIT-Applications-00D9E8?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101B2B)](https://share.streamlit.io/user/florenceelainesoleno)
 [![Email](https://img.shields.io/badge/CONTACT-Email-00D9E8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101B2B)](mailto:florencesolenositaca@gmail.com)
 
-**BUSINESS ANALYTICS** · **MACHINE LEARNING** · **DECISION INTELLIGENCE**
 
-*Turning complex data into decisions that matter.*
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=45&repeat=false&lines=BUSINESS+ANALYTICS+%C2%B7+MACHINE+LEARNING+%C2%B7+DECISION+INTELLIGENCE"
+    alt="Business Analytics · Machine Learning · Decision Intelligence"
+  />
+</div>
 
 </div>
 
 ---
 
 
-<h2>01 // ANALYST PROFILE</h2>
 
-<table width="100%">
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=17&duration=1&pause=100000&color=00E5FF&width=550&height=45&repeat=false&lines=01+%2F%2F+ANALYST+PROFILE" alt="01 // ANALYST PROFILE"/>
+</h2>
+
+<table width="200%">
 <tr>
 
 <!-- LEFT: INTRODUCTION -->
@@ -52,7 +59,7 @@ and communicating insights clearly.
 </td>
 
 <!-- RIGHT: PHOTO AND ANALYST STATUS -->
-<td width="35%" align="center" valign="top">
+<td width="35%" align="left" valign="top">
 
 <img
   src="assets/profile-photo.png"
@@ -60,11 +67,9 @@ and communicating insights clearly.
   alt="Florence Elaine Soleño"
 />
 
-<br><br>
-
 <img src="https://img.shields.io/badge/ANALYST-STATUS-168FFF?style=flat-square&labelColor=0D1117"/>
 
-<br><br>
+<br>
 
 <code>ROLE: Business Analytics</code>
 <br>

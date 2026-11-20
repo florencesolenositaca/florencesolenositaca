@@ -413,7 +413,7 @@ to identify student performance patterns and explore factors contributing to dro
   
 </td>
 <td>
-  <img src="https://cdn.simpleicons.org/google/4285F4" height="35" alt="Google Workspace" title="Google Workspace"/>
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="32" alt="Google Workspace" title="Google Workspace"/>
    &nbsp;
   <img src="./assets/canva.png" height="35" alt="canva"/>
   &nbsp;

@@ -632,7 +632,7 @@ to identify student performance patterns and explore factors contributing to dro
 <tr>
 <td width="25%" align="center" valign="top">
   <a href="mailto:florencesolenositaca@gmail.com">
-    <img src="https://placehold.co/180x130/38B6FF/000000.png?text=G" width="100%" height="130" alt="Gmail" />
+    <img src="./assets/gmail.png" width="100" height="100" alt="Email" />
   </a>
   <p align="center">
     <a href="mailto:florencesolenositaca@gmail.com">
@@ -644,7 +644,7 @@ to identify student performance patterns and explore factors contributing to dro
 
 <td width="25%" align="center" valign="top">
   <a href="https://www.linkedin.com/in/florence-soleno/">
-    <img src="https://placehold.co/180x130/38B6FF/000000.png?text=IN" width="100%" height="130" alt="LinkedIn" />
+    <img src="./assets/linkedin.png" width="100" height="100" alt="LinkedIn" />
   </a>
   <p align="center">
     <a href="https://www.linkedin.com/in/florence-soleno/">
@@ -656,7 +656,7 @@ to identify student performance patterns and explore factors contributing to dro
 
 <td width="25%" align="center" valign="top">
   <a href="https://www.facebook.com/flrnc.7/">
-    <img src="https://placehold.co/180x130/38B6FF/000000.png?text=F" width="100%" height="130" alt="Facebook" />
+    <img src="./assets/facebook.png" width="100" height="100" alt="Facebook" />
   </a>
   <p align="center">
     <a href="https://www.facebook.com/flrnc.7/">
@@ -668,7 +668,7 @@ to identify student performance patterns and explore factors contributing to dro
 
 <td width="25%" align="center" valign="top">
   <a href="https://share.streamlit.io/user/florenceelainesoleno">
-    <img src="https://placehold.co/180x130/38B6FF/000000.png?text=ST" width="100%" height="130" alt="Streamlit" />
+    <img src="./assets/streamlit.png" width="100" height="100" alt="Streamlit" />
   </a>
   <p align="center">
     <a href="https://share.streamlit.io/user/florenceelainesoleno">
